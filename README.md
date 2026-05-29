@@ -1,24 +1,9 @@
-<h1 align="center">Hi 👋, I'm Santhosh Krishna</h1>
-
-<h3 align="center">Product-Oriented Student Developer</h3>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Santhosh Krishna</h1><h3 align="center">Product-Oriented Student Developer</h3><p align="center">
 Building practical software for students and communities while learning software engineering through real-world projects.
-</p>
-
-<p align="center">
-  <a href="https://portfolio-nine-ebon-19.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/santhosh9863">GitHub</a>
-</p>
-Hi, I'm Santhosh Krishna 👋
-
-Product-Oriented Student Developer
-
-Building practical software for students and communities while learning software engineering through real-world projects.
-
-🌐 Portfolio: https://portfolio-nine-ebon-19.vercel.app/
-
----
+</p><p align="center">
+  <a href="https://portfolio-nine-ebon-19.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/santhosh9863">💻 GitHub</a>
+</p>---
 
 🚀 About Me
 
@@ -26,7 +11,7 @@ I'm a student developer who learns by building.
 
 I enjoy turning everyday problems into structured digital solutions and understanding how software evolves from an idea into a maintainable product.
 
-My interests include:
+Rather than focusing only on technologies, I'm interested in:
 
 - 📱 Mobile Application Development
 - 🏗 Software Architecture
@@ -47,6 +32,14 @@ I enjoy starting with simple solutions, learning from their limitations, and gra
 - Strengthening software engineering practices
 
 ---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh9863&show_icons=true&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh9863&layout=compact&hide_border=true" />
+</p>---
 
 🌟 Featured Projects
 
@@ -136,36 +129,28 @@ My goal is to understand how software solves real-world problems and how softwar
 
 🛠 Technologies
 
-Mobile Development
+📱 Mobile Development
 
 - Flutter
 - Dart
 
-Web Development
+🌐 Web Development
 
 - HTML
 - CSS
 - JavaScript
 
-Currently Learning
+📚 Currently Learning
 
 - React
 - Backend Development
 - Software Architecture
 
-Tools
+⚙️ Tools
 
 - Git
 - GitHub
 - Vercel
-
----
-
-📈 GitHub Activity
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=santhosh9863&show_icons=true&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh9863&layout=compact&hide_border=true)
 
 ---
 
@@ -198,4 +183,4 @@ https://github.com/santhosh9863
 
 ---
 
-Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
