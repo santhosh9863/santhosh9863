@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Santhosh Krishna</h1>
+
+<h3 align="center">Product-Oriented Student Developer</h3>
+
+<p align="center">
+Building practical software for students and communities while learning software engineering through real-world projects.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-nine-ebon-19.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/santhosh9863">GitHub</a>
+</p>
 Hi, I'm Santhosh Krishna 👋
 
 Product-Oriented Student Developer
